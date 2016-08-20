@@ -1,0 +1,14 @@
+layout_spectrum: 0.2220252046827227
+typography_spectrum: 0.9677828587591648
+color:
+  brandStrength: 0.016146751353517175
+  lightness: 0.3389545890968293
+  saturation: 0.15542192850261927
+  rhythmicContrast: 0.14937543938867748
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+name: Djavaweb
