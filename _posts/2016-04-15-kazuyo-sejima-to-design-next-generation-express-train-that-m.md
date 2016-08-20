@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T01:10:31.482Z'
+datePublished: '2016-08-20T01:21:44.579Z'
 sourcePath: >-
   _posts/2016-04-15-kazuyo-sejima-to-design-next-generation-express-train-that-m.md
 inFeed: true
@@ -22,7 +22,8 @@ author:
   - name: Johnny
     url: 'http://www.spoon-tamago.com/author/admin/'
     avatar: {}
-dateModified: '2016-08-20T01:10:30.037Z'
+via: {}
+dateModified: '2016-08-20T01:21:43.692Z'
 title: >-
   Kazuyo Sejima to Design Next Generation Express Train that Melds Into the
   Environment
@@ -39,10 +40,9 @@ description: >-
   Pritzker-winning studio SANAA - has proposed a concept for Seibu'
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment</h1><p>In a press release issued overnight in Japan, Seibu Group announced plans for a new Limited Express train that would be designed by Kazuyo Sejima. Working with the train operator's design team, the architect - one half of the Pritzker-winning studio SANAA - has proposed a concept for Seibu'</p><img src="http://www.spoon-tamago.com/wp-content/uploads/2016/03/kazuyo-sejima-seibu-train.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d428acceaf4789ee96d43cbcfb33a4bb52fd329d.jpg" /><h1>Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment</h1><p>In a press release issued overnight in Japan, Seibu Group announced plans for a new Limited Express train that would be designed by Kazuyo Sejima. Working with the train operator's design team, the architect - one half of the Pritzker-winning studio SANAA - has proposed a concept for Seibu'</p></article>
