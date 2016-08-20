@@ -1,4 +1,3 @@
-layout_spectrum: 0.2220252046827227
 typography_spectrum: 0.9677828587591648
 color:
   brandStrength: 0.016146751353517175
@@ -6,9 +5,11 @@ color:
   saturation: 0.15542192850261927
   rhythmicContrast: 0.14937543938867748
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.2220252046827227
 name: Djavaweb
+title: 'Well, Hello there!'
